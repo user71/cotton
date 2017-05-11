@@ -1,6 +1,7 @@
 #include <iostream>
 
 /* Cute Bot class. It prints something by the way :) */
+/* More functionality should be added                */
 
 class FPrinterBot
 {
