@@ -32,7 +32,7 @@ void FPrinterBot::invFrame()
 }
 
 void FPrinterBot::basicPrint()
-{ // maybe other print?
+{ // maybe other print
   invFrame();
   std::cout << "basic print is just basic" << std::endl;
   invFrame();
