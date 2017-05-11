@@ -1,5 +1,8 @@
+
 #include <iostream>
 #include "FPrinterBot.h"
+
+/* Main function. Functionality should be improved  */
 
 int main()
 {
